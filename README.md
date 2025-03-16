@@ -1,7 +1,11 @@
 ## Hi there I am Bhavesh 👋
 
 # 💫 About Me:
-🔭 I’m currently working on our project SkillsDA 
+🔭 I’m currently a Computer Science Engineering student at REVA University, Bengaluru.
+💡 Passionate about programming, web development, and financial projects like trading analysis and technical stock analysis.
+🚀 I love participating in hackathons and building innovative solutions, including AI-driven applications and market prediction models.
+📈 Currently exploring advanced trading algorithms.
+🎯 Always eager to learn and collaborate on cutting-edge technologies!
 
 
 ## 🌐 Socials:
