@@ -49,7 +49,8 @@
 ## 📌 Coding Stats:
 
 ### 👨‍💻 LeetCode:
-[![LeetCode stats](https://leetcard.jacoblin.cool/Bhavesh444?animation=true)](https://leetcode.com/u/Bhavesh444/)
+[![LeetCode stats](https://leetcard.jacoblin.cool/Bhavesh444?animation=true)](https://leetcode.com/u/Bhavesh444/)  <br/>
+<a href="https://leetcode.com/Bhavesh444/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="jyot" height="200" width="200" /></a>
 
 ### 🧠 GeeksForGeeks:
 [![GeeksForGeeks stats](https://gfgstatscard.vercel.app/bhaveshshg6b9)](https://www.geeksforgeeks.org/user/bhaveshshg6b9/)
