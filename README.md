@@ -1,4 +1,4 @@
-## Hi there, I'm Bhavesh 👋
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, I'm Bhavesh 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavesh-shrigiri-7765b2260)
 
 
@@ -35,8 +35,8 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Bhavesh0577&show_icons=true&theme=react&rank_icon=github&border_radius=10)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh0577&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)<br/>
-![](https://streak-stats.demolab.com/?user=Bhavesh0577&count_private=true&theme=react&border_radius=10)
+![](https://streak-stats.demolab.com/?user=Bhavesh0577&count_private=true&theme=react&border_radius=10) <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh0577&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)
 
 
 
