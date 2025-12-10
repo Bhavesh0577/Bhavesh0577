@@ -48,8 +48,10 @@
 [![GeeksForGeeks stats](https://gfgstatscard.vercel.app/bhaveshshg6b9)](https://www.geeksforgeeks.org/user/bhaveshshg6b9/)
 
 ### 👨‍💻 LeetCode:
+<a href="https://leetcode.com/Bhavesh444/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="jyot" height="200" width="200" /></a>
 <a href="https://leetcode.com/Bhavesh444/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="jyot" height="200" width="200" /></a>
 <a href="https://leetcode.com/Bhavesh444/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202508.gif" alt="jyot" height="200" width="200" /></a>
+
 
 [![LeetCode stats](https://leetcard.jacoblin.cool/Bhavesh444?animation=true)](https://leetcode.com/u/Bhavesh444/)  <br/>
 
